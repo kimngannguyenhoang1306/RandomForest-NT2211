@@ -47,9 +47,8 @@ This project demonstrates a Machine Learning pipeline using Random Forest Classi
 ## **File Structure**
 ```plaintext
 RandomForest-NT2211/
-├── data/
-│   ├── train.csv        # Training data
-│   ├── test.csv         # Testing data
+├── train.csv            # Training data
+├── test.csv             # Testing data
 ├── main.py              # Entry point for the pipeline
 ├── requirements.txt     # List of required Python libraries
 ├── outputs/             # Directory for output artifacts and logs
