@@ -25,7 +25,7 @@ This project demonstrates a Machine Learning pipeline using Random Forest Classi
 ## **Usage**
 
 ### **1. Prepare the Data**
-- Place your training data (`train.csv`) and testing data (`test.csv`) in the appropriate directory (e.g., `data/`).
+- Place your training data (`train.csv`) and testing data (`test.csv`) in the root directory (equal to the directory of main.py).
 
 ### **2. Run the Pipeline**
 - Execute the `main.py` script to train and evaluate the model:
@@ -57,6 +57,7 @@ RandomForest-NT2211/
 │   ├── scaler_*.joblib  # Saved scaler
 │   ├── logs/            # Logs and evaluation reports
 ├── README.md            # Project documentation
+├── results              # Samples results
 ```
 
 ---
